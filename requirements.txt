@@ -1,0 +1,7 @@
+d2l==1.0.3
+numpy
+pandas
+matplotlib
+jupyter
+torch
+torchvision
